@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environments
+.venv/
+
+# Ignore build/dist folders
+.dist/
+build/
+dist/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
